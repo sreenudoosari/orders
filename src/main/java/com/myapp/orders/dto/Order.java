@@ -1,4 +1,4 @@
-package com.myapp.orders.controller;
+package com.myapp.orders.dto;
 
 import java.util.List;
 

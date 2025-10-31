@@ -1,5 +1,6 @@
 package com.myapp.orders.controller;
 
+import com.myapp.orders.dto.Order;
 import com.myapp.orders.producer.OrderProducer;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
